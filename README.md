@@ -9,7 +9,7 @@ Time spent: **X** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following **required** functionality is completed: 
 
 - [ ] Table rows for search results should be dynamic height according to the content height. (3pt)
 - [ ] Custom cells should have the proper Auto Layout constraints. (+5pt)
